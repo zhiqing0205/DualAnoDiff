@@ -25,10 +25,6 @@ We propose **DualAnoDiff**, a novel diffusion-based few-shot anomaly image gener
 Moreover, we extract background and shape information to mitigate the distortion and blurriness phenomenon in few-shot image generation. 
 Extensive experiments demonstrate the superiority of our proposed model over state-of-the-art methods in terms of diversity, realism and the accuracy of mask. Overall, our approach significantly improves the performance of downstream anomaly inspection tasks, including anomaly detection, anomaly localization, and anomaly classification tasks. Code will be made available.
 
-<img src="https://github.com/user-attachments/assets/187ef4ce-eaf0-4743-a94b-f627e26ab894" width="450px">
-<!-- ![image](https://github.com/user-attachments/assets/187ef4ce-eaf0-4743-a94b-f627e26ab894) -->
-
-
 # ✨Overview
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/27bd1be9-726a-4257-a160-5816317e1d43" />
 
