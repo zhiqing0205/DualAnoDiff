@@ -29,8 +29,9 @@ Extensive experiments demonstrate the superiority of our proposed model over sta
 <!-- ![image](https://github.com/user-attachments/assets/187ef4ce-eaf0-4743-a94b-f627e26ab894) -->
 
 
-# ✨Method
-![image](https://github.com/user-attachments/assets/8ef86e87-4c48-42b4-8dec-235a9d744f8a)
+# ✨Overview
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/27bd1be9-726a-4257-a160-5816317e1d43" />
+
 
 # Getting Started
 
