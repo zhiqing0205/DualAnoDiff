@@ -38,9 +38,8 @@ run:
 ```
 cd dual-interrelated_diff # or bcm-dual-interrelated_diff
 sh run_mvtec_split.py
+# run_mvtec_split.py includes operations for training, inference, and mask generation. Since our method involves training the model for a single category, it is necessary to modify the name in the run_mvtec_split.py file, which represents the category to be generated from Mvtec.
 ```
-
-run_mvtec_split.py中包括模型的训练、推理、生成mask的操作，由于我们的方法是针对单个类别训练模型，因此需要修改run_mvtec_split.py文件中的name，其表示所要生成的Mvtec中的类别。
 
 # Data and checkpoints
 
