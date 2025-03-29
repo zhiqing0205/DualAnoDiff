@@ -34,7 +34,6 @@ Extensive experiments demonstrate the superiority of our proposed model over sta
 
 
 # Getting Started
-
 run:
 ```
 cd dual-interrelated_diff # or bcm-dual-interrelated_diff
@@ -59,5 +58,10 @@ run_mvtec_split.py中包括模型的训练、推理、生成mask的操作，由�
 ## Comparison with Anomaly Detection Models
 ![image](https://github.com/user-attachments/assets/f793f984-e746-4d2d-bc1b-8d50144a0eb2)
 
+
+# Citation
+```
+
+```
 
 
