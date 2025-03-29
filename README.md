@@ -5,7 +5,7 @@
 [Qingdong He<sup>2#</sup>](https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN&oi=sra),
 [Teng Hu<sup>3</sup>](https://scholar.google.com/citations?user=Jm5qsAYAAAAJ&hl=zh-CN&oi=sra),
 [Hao Chen<sup>1</sup>](),
-[Haoxuan Wang<sup>1</sup>](),
+[Haoxuan Wang<sup>1</sup>](), 
 [Jiafu Wu<sup>2</sup>](https://scholar.google.com/citations?user=tiQ_rv0AAAAJ&hl=zh-CN&oi=sra),
 [wenbing zhu<sup>1</sup>](),
 [Mingmin Chi<sup>1*</sup>](https://scholar.google.com/citations?user=Y8b1W00AAAAJ&hl=zh-CN&oi=sra),
@@ -31,6 +31,17 @@ Extensive experiments demonstrate the superiority of our proposed model over sta
 
 # ✨Method
 ![image](https://github.com/user-attachments/assets/8ef86e87-4c48-42b4-8dec-235a9d744f8a)
+
+# Getting Started
+
+run:
+cd dual-interrelated_diff # or bcm-dual-interrelated_diff
+sh run_mvtec_split.py
+
+run_mvtec_split.py中包括模型的训练、推理、生成mask的操作，由于我们的方法是针对单个类别训练模型，因此需要修改run_mvtec_split.py文件中的name，其表示所要生成的Mvtec中的类别。
+
+# Data and checkpoints
+
 
 
 # Result
