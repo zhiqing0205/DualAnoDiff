@@ -10,11 +10,11 @@
 [wenbing zhu<sup>1</sup>](),
 [Mingmin Chi<sup>1*</sup>](https://scholar.google.com/citations?user=Y8b1W00AAAAJ&hl=zh-CN&oi=sra),
 [Jun Liu<sup>2</sup>](),
-[Yabiao Wang<sup>2</sup>]()
+[Yabiao Wang<sup>2,4</sup>]()
 
 (#Equal contribution,*Corresponding author)
 
-<sup>1</sup>Fudan University, <sup>2</sup>Youtu Lab, Tencent, <sup>3</sup>Shanghai Jiao Tong University
+<sup>1</sup>Fudan University, <sup>2</sup>Youtu Lab, Tencent, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>Zhe Jiang University
 
 [[paper](https://arxiv.org/abs/2408.13509)]
 
