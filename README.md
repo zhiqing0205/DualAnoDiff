@@ -16,7 +16,7 @@
 
 <sup>1</sup>Fudan University, <sup>2</sup>Youtu Lab, Tencent, <sup>3</sup>Shanghai Jiao Tong University
 
-[paper](https://arxiv.org/abs/2408.13509)
+[[paper](https://arxiv.org/abs/2408.13509)]
 
 ## Abstract
 The performance of anomaly inspection in industrial manufacturing is constrained by the scarcity of anomaly data. To overcome this challenge, researchers have started employing anomaly generation approaches to augment the anomaly dataset.
