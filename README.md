@@ -56,7 +56,12 @@ sh run_mvtec_split.py
 
 # Citation
 ```
-
+@article{jin2024dualanodiff,
+  title={DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation},
+  author={Jin, Ying and Peng, Jinlong and He, Qingdong and Hu, Teng and Chen, Hao and Wu, Jiafu and Zhu, Wenbing and Chi, Mingmin and Liu, Jun and Wang, Yabiao and others},
+  journal={arXiv preprint arXiv:2408.13509},
+  year={2024}
+}
 ```
 
 
