@@ -1,3 +1,4 @@
+<div align="center">
 # <center>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<center>
 <!-- ::--:DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation::--: -->
 [Ying Jin<sup>1#</sup>](),
