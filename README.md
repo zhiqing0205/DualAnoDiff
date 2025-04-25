@@ -1,7 +1,9 @@
 <div align="center">
 <h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<h1>
 <br>
-[Ying Jin<sup>1#</sup>](),
+
+<a>Ying Jin</a>, <a href="https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra">Jinlong Peng</a>,<a>Ying Jin</a>,<a>Ying Jin</a>
+[<sup>1#</sup>](),
 [Jinlong Peng<sup>2#</sup>](https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra),
 [Qingdong He<sup>2#</sup>](https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN&oi=sra),
 [Teng Hu<sup>3</sup>](https://scholar.google.com/citations?user=Jm5qsAYAAAAJ&hl=zh-CN&oi=sra),
