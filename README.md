@@ -1,6 +1,7 @@
 <div align="center">
-<h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<h1>
+<h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation</h1>
 <br>
+  
 <p>
 <a>Ying Jin</a>, <a href="https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra">Jinlong Peng</a>,<a>Ying Jin</a>,<a>Ying Jin</a>
 [<sup>Ying Jin <sup>1#</sup>](),
