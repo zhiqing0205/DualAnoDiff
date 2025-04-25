@@ -1,6 +1,5 @@
 <div align="center">
-# <center>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<center>
-<!-- ::--:DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation::--: -->
+<h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<h1>
 [Ying Jin<sup>1#</sup>](),
 [Jinlong Peng<sup>2#</sup>](https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra),
 [Qingdong He<sup>2#</sup>](https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN&oi=sra),
