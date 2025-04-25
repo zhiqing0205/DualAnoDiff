@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<h1>
+<br>
 [Ying Jin<sup>1#</sup>](),
 [Jinlong Peng<sup>2#</sup>](https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra),
 [Qingdong He<sup>2#</sup>](https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN&oi=sra),
@@ -16,7 +17,8 @@
 
 <sup>1</sup>Fudan University, <sup>2</sup>Youtu Lab, Tencent, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>Zhe Jiang University
 
-[[paper](https://arxiv.org/abs/2408.13509)]
+<a href="https://arxiv.org/abs/2408.13509"><img src="https://img.shields.io/badge/arXiv-2503.09277-A42C25.svg" alt="arXiv"></a>
+
 
 ## Abstract
 The performance of anomaly inspection in industrial manufacturing is constrained by the scarcity of anomaly data. To overcome this challenge, researchers have started employing anomaly generation approaches to augment the anomaly dataset.
