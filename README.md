@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation<h1>
 <br>
-
+<p>
 <a>Ying Jin</a>, <a href="https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra">Jinlong Peng</a>,<a>Ying Jin</a>,<a>Ying Jin</a>
-[<sup>1#</sup>](),
+[<sup>Ying Jin <sup>1#</sup>](),
 [Jinlong Peng<sup>2#</sup>](https://scholar.google.com/citations?user=i5I-cIEAAAAJ&hl=zh-CN&oi=sra),
 [Qingdong He<sup>2#</sup>](https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN&oi=sra),
 [Teng Hu<sup>3</sup>](https://scholar.google.com/citations?user=Jm5qsAYAAAAJ&hl=zh-CN&oi=sra),
@@ -18,6 +18,8 @@
 (#Equal contribution,*Corresponding author)
 
 <sup>1</sup>Fudan University, <sup>2</sup>Youtu Lab, Tencent, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>Zhe Jiang University
+</p>
+
 
 <a href="https://arxiv.org/abs/2408.13509"><img src="https://img.shields.io/badge/arXiv-2503.09277-A42C25.svg" alt="arXiv"></a>
 
