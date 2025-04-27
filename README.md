@@ -48,7 +48,11 @@ Extensive experiments demonstrate the superiority of our proposed model over sta
 
 
 # Getting Started
-Download [SD1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
+Download [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
+、、、
+git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
+、、、
+
 ```
 pip -r requirments.txt
 cd dual-interrelated_diff # or bcm-dual-interrelated_diff
@@ -57,6 +61,7 @@ sh run_mvtec_split.py
 ```
 
 # Data and checkpoints
+
 
 
 
