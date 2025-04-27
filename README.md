@@ -63,10 +63,12 @@ To see the usage and instructions for U2-Net, please refer to: [U-2-Net](https:/
 
 # Data and checkpoints
 
-|          | url |
+|          |       url      |
 |----------|----------|
 | Checkpoints for anomaly generation | [url](https://pan.quark.cn/s/19f5cbefc100)    |
 | Checkpoints for anomaly generation with BCM | [url](https://pan.quark.cn/s/7ea8f1f13b11)     | 
+| Generate images |     | 
+| Generate images with BCM |     | 
 | 1-shot generate images | [url](https://pan.quark.cn/s/51d266cedef6)    | 
 
 
