@@ -79,7 +79,9 @@ sh run_mvtec_split.py
 
 ## More experiments
 To validate the few-shot performance of the model, we tested the 1-shot performance on selected categories. The visualization results are as follows:
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/b2e8bfdc-df9d-4ab3-9f5f-a83666941fa1" />
 ![image](https://github.com/user-attachments/assets/b2e8bfdc-df9d-4ab3-9f5f-a83666941fa1)
+
 
 
 # Citation
