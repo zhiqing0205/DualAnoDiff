@@ -63,6 +63,11 @@ To see the usage and instructions for U2-Net, please refer to: [U-2-Net](https:/
 
 # Data and checkpoints
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+| Row 3    | Data     | Data     |
 
 
 
