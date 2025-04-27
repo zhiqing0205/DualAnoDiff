@@ -34,7 +34,7 @@
 
 
 <a href="https://arxiv.org/abs/2408.13509"><img src="https://img.shields.io/badge/arXiv-2503.09277-A42C25.svg" alt="arXiv"></a>
-
+</div>
 
 ## Abstract
 The performance of anomaly inspection in industrial manufacturing is constrained by the scarcity of anomaly data. To overcome this challenge, researchers have started employing anomaly generation approaches to augment the anomaly dataset.
