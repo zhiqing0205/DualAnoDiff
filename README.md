@@ -59,6 +59,7 @@ cd dual-interrelated_diff # or bcm-dual-interrelated_diff
 sh run_mvtec_split.py
 # run_mvtec_split.py includes operations for training, inference, and mask generation. Since our method involves training the model for a single category, it is necessary to modify the name in the run_mvtec_split.py file, which represents the category to be generated from Mvtec.
 ```
+To see the usage and instructions for U2-Net, please refer to: [U-2-Net](https://github.com/xuebinqin/U-2-Net)
 
 # Data and checkpoints
 
