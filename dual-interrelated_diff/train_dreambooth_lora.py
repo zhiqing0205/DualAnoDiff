@@ -523,7 +523,7 @@ class DreamBoothDataset(Dataset):
                     file_names.sort()
                     n=len(file_names)
                     n=n//3
-                    if n%3:
+                    if n%3: #并不是每个类别都需要，这里需要结合所有异常类别的综合数量来指定数据
                         n+=1
                     for name in file_names[:n]:
                         self.instance_images_path.append(os.path.join(self.instance_data_root,type_name,'test',anamaly_name,name))
