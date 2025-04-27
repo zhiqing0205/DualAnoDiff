@@ -52,7 +52,7 @@ Download [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/st
 ```
 git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
 ```
-
+Environment Setup and Run.
 ```
 pip -r requirments.txt
 cd dual-interrelated_diff # or bcm-dual-interrelated_diff
