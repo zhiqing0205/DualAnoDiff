@@ -61,6 +61,51 @@ sh run_mvtec_split.py
 ```
 To see the usage and instructions for U2-Net, please refer to: [U-2-Net](https://github.com/xuebinqin/U-2-Net)
 
+# Detail steps
+0. Environment:
+```
+accelerate==0.24.1
+clip
+Cython==0.29.35
+matplotlib==3.8.0
+numpy==1.24.3
+open-clip-torch==2.23.0
+opencv-python==4.7.0.72
+opencv-python-headless==.7.0.72
+pandas==2.0.3
+Pillow==9.4.0
+pytorch-lightning==1.5.0
+PyYAML==6.0
+scikit-image==0.22.0
+scikit-learn==1.3.2
+scipy==1.10.1
+setuptools==65.6.3
+tensorboard==.15.0
+timm==0.4.12
+torch==2.0.1+cu118
+torchaudio==2.0.2+cu118
+torchmetrics==0.6.0
+torchvision==0.15.2+cu118
+transformers==4.30.2
+```
+1. Download [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
+```
+git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
+```
+2. Train
+After running, the model weights will be saved in "all_generate". For different amounts of training data, you can choose the most appropriate steps by visualizing the generated results. 
+```
+cd dual-interrelated_diff
+sh train.sh
+```
+3. Infer
+You can modify the "guidance_scale" to observe the generated results that are closer in color to the training data.
+```
+python inference_mvtec_split.py hazelnut hole
+```
+4. Get Mask
+Referencing [U-2-Net](https://github.com/xuebinqin/U-2-Net), use this model to segment the generated fg files.
+
 # Data and checkpoints
 
 |          |       url      |
