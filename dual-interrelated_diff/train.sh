@@ -3,7 +3,7 @@ export INSTANCE_DIR="none"
 
 export NAME="hazelnut"
 export ANOMALY="hole"
-export OUTPUT_DIR="generate_data/$NAME/$ANOMALY"
+export OUTPUT_DIR="all_generate/$NAME/$ANOMALY"
 
 CUDA_VISIBLE_DEVICES={id} accelerate launch \
     --main_process_port=30005 \
