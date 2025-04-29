@@ -93,17 +93,20 @@ transformers==4.30.2
 git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
 ```
 2. Train
+
 After running, the model weights will be saved in "all_generate". For different amounts of training data, you can choose the most appropriate steps by visualizing the generated results. 
 ```
 cd dual-interrelated_diff
 sh train.sh
 ```
 3. Infer
+   
 You can modify the "guidance_scale" to observe the generated results that are closer in color to the training data.
 ```
 python inference_mvtec_split.py hazelnut hole
 ```
 4. Get Mask
+   
 Referencing [U-2-Net](https://github.com/xuebinqin/U-2-Net), use this model to segment the generated fg files.
 
 # Data and checkpoints
